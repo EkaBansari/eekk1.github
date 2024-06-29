@@ -58,7 +58,6 @@
     font-size: 27px;
 }
 
-
 .title a{
     font-weight: 700;
     color: #48BBF6;
@@ -66,11 +65,9 @@
     font-size: 22px;
 }
 
-
 .title a:hover{
     color: #3185af;
 }
-
 
 .dot2{
     color: crimson;
