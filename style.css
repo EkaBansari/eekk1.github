@@ -1,12 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
 *,body{
-    font-family: Inter, Arial, Helvetica, sans-serif;;
-    
-    
+    font-family: Inter, Arial, Helvetica, sans-serif;;  
 }
 
 .brand{
-    font-size: 20px; --30ox 
+    font-size: 20px; --30px 
 }
 .dot{
     font-size: 40px;
@@ -46,7 +44,7 @@
 
 .card{
     padding-top: 10px;
-    border-left: 7px #48BBF6; -- border-left: 7px solid crimson; 
+    border-left: 7px solid electric blue; -- border-left: 7px solid crimson; 
 }
 
 .icons{
