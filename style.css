@@ -44,7 +44,7 @@
 
 .card{
     padding-top: 10px;
-    border-left: 7px solid blue; -- border-left: 7px solid crimson; 
+    border-left: 7px ice blue; -- border-left: 7px solid crimson; 
 }
 
 .icons{
@@ -52,7 +52,7 @@
     margin-right: 20px ;
     padding-top: 20px;
     padding-bottom: 20px;
-    color: blue; --crimson
+    color: crimson;
 }
 .title{
     font-size: 27px;
