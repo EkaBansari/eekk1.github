@@ -6,7 +6,7 @@
 }
 
 .brand{
-    font-size: 30px;
+    font-size: 20px; --30ox 
 }
 .dot{
     font-size: 40px;
@@ -28,7 +28,6 @@
     line-height: 70px;
 }
 .secondary-text{
-    
     display: flex;
     justify-content: center;
 }
@@ -43,14 +42,11 @@
  article{
      max-width: 600px;
      height: 200px; 
-     
-         
 }
 
 .card{
-    
     padding-top: 10px;
-    border-left: 7px solid crimson;
+    border-left: 7px #48BBF6; -- border-left: 7px solid crimson; 
 }
 
 .icons{
@@ -63,8 +59,6 @@
 .title{
     font-size: 27px;
 }
-
-
 
 
 .title a{
